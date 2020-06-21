@@ -1,4 +1,4 @@
-# GAN-Theory
+# GAN
 Papers of GANs
 
 Original GAN Paper

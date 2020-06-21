@@ -43,7 +43,7 @@ Which Training Methods for GANs do actually Converge [[Paper]](https://arxiv.org
 
 Gradient descent GAN optimization is locally stable [[Paper]](https://arxiv.org/abs/1706.04156)[[code]](https://github.com/locuslab/gradient_regularized_gan)
 
-The Numerics of GANs [[Paper]](https://arxiv.org/abs/1705.10461)[[code]](https://github.com/LMescheder/ TheNumericsOfGANs) (NIPS 2017)
+The Numerics of GANs [[Paper]](https://arxiv.org/abs/1705.10461)[[code]](https://github.com/LMescheder/TheNumericsOfGANs) (NIPS 2017)
 
 Generalization
 --------------------------------------------

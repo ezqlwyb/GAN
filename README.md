@@ -39,13 +39,13 @@ Convergence of Training Methods
 --------------------------------------------
 GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium [[Paper]](https://arxiv.org/abs/1706.08500)[[code]](https://github.com/bioinf-jku/TTUR)
 
-[Which Training Methods for GANs do actually Converge][[Paper]](https://arxiv.org/pdf/1801.04406)[[code]](https://github.com/LMescheder/GAN_stability)
+Which Training Methods for GANs do actually Converge [[Paper]](https://arxiv.org/pdf/1801.04406)[[code]](https://github.com/LMescheder/GAN_stability)
 
-[Which Training Methods for GANs do actually Converge][[Paper]](https://arxiv.org/pdf/1801.04406)[[code]](https://github.com/LMescheder/GAN_stability)
+Gradient descent GAN optimization is locally stable [[Paper]](https://arxiv.org/abs/1706.04156)[[code]](https://github.com/locuslab/gradient_regularized_gan)
 
-[Which Training Methods for GANs do actually Converge][[Paper]](https://arxiv.org/pdf/1801.04406)[[code]](https://github.com/LMescheder/GAN_stability)
+The Numerics of GANs [[Paper]](https://arxiv.org/abs/1705.10461)[[code]](https://github.com/LMescheder/ TheNumericsOfGANs) (NIPS 2017)
 
-:heavy_check_mark: [Self-Supervised Generative Adversarial Networks][[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
+Self-Supervised Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
 
 Generalization
 --------------------------------------------

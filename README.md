@@ -25,7 +25,7 @@ Mode Regularized Generative Adversarial Networkss [[Paper]](https://arxiv.org/ab
 
 Unrolled Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.02163)[[Code]](https://github.com/poolio/unrolled_gan)
 
-## Lipschitz GAN
+### Lipschitz GAN
 --------------------------------------------
 Towards Principled Methods for Training Generative Adversarial Networks [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
 
@@ -45,8 +45,6 @@ Gradient descent GAN optimization is locally stable [[Paper]](https://arxiv.org/
 
 The Numerics of GANs [[Paper]](https://arxiv.org/abs/1705.10461)[[code]](https://github.com/LMescheder/ TheNumericsOfGANs) (NIPS 2017)
 
-Self-Supervised Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
-
 Generalization
 --------------------------------------------
 Generalization and Equilibrium in Generative Adversarial Nets(GANs) [[Paper]](https://arxiv.org/pdf/1703.00573)[[Code]](https://github.com/PrincetonML/MIX-plus-GANs)
@@ -60,6 +58,8 @@ Improving Generalization and Stability of Generative Adversarial Networks [[Pape
 Training Tricks
 --------------------------------------------
 Improved Techniques for Training GANs [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
+
+Self-Supervised Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
 
 ## Joint Probability
 --------------------------------------------

@@ -33,15 +33,21 @@ Wasserstein GAN [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://gith
 
 Improved Training of Wasserstein GANs [[Paper]](https://arxiv.org/abs/1704.00028)[[Code]](https://github.com/igul222/improved_wgan_training)
 
+Relaxed Wasserstein, with Applications to GANs and Distributionally Robust Optimization [[Paper]](https://arxiv.org/pdf/1705.07164)
+
 Improving the Improved Training of Wasserstein GANs [[Paper]](https://arxiv.org/abs/1803.01541)[[Code]](https://github.com/biuyq/CT-GAN)
 
-Banach Wasserstein GAN [[Paper]](https://arxiv.org/pdf/1806.06621v2)[[Code]](https://github.com/adler- j/bwgan) (NIPS 2018)
+Banach Wasserstein GAN [[Paper]](https://arxiv.org/pdf/1806.06621v2)[[Code]](https://github.com/adler- j/bwgan)(NIPS 2018)
 
-Spectral Normalization for Generative Adversarial Networks [[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[code]](https://github.com/minhnhat93/tf-SNDCGAN)
+Spectral Normalization for Generative Adversarial Networks [[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[Code]](https://github.com/minhnhat93/tf-SNDCGAN)(ICLR 2018)
 
-Max-Sliced Wasserstein Distance and its use for GANs [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Max-Sliced_Wasserstein_Distance_and_Its_Use_for_GANs_CVPR_2019_paper.pdf)(CVPR 2019)
+On the regularization of Wasserstein GANs [[Paper]](https://openreview.net/pdf?id=B1hYRMbCW)(ICLR 2018)
 
-Relaxed Wasserstein, with Applications to GANs and Distributionally Robust Optimization [[Paper]](https://arxiv.org/pdf/1705.07164)
+Generative Modeling using the Sliced Wasserstein Distance [[Paper]](http://openaccess.thecvf.com/content_cvpr_2018/papers/Deshpande_Generative_Modeling_Using_CVPR_2018_paper.pdf)(CVPR 2018)
+
+Max-Sliced Wasserstein Distance and its use for GANs [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Max-Sliced_Wasserstein_Distance_and_Its_Use_for_GANs_CVPR_2019_paper.pdf)[[Code]](https://github.com/ishansd/swg)(CVPR 2019)
+
+A Wasserstein GAN model with the total variational regularization [[Paper]](https://arxiv.org/pdf/1812.00810)
 
 Convergence of Training Methods
 --------------------------------------------
@@ -51,7 +57,7 @@ Which Training Methods for GANs do actually Converge [[Paper]](https://arxiv.org
 
 Gradient descent GAN optimization is locally stable [[Paper]](https://arxiv.org/abs/1706.04156)[[code]](https://github.com/locuslab/gradient_regularized_gan)
 
-The Numerics of GANs [[Paper]](https://arxiv.org/abs/1705.10461)[[code]](https://github.com/LMescheder/TheNumericsOfGANs) (NIPS 2017)
+The Numerics of GANs [[Paper]](https://arxiv.org/abs/1705.10461)[[code]](https://github.com/LMescheder/TheNumericsOfGANs)(NIPS 2017)
 
 Generalization
 --------------------------------------------

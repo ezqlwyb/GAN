@@ -7,12 +7,11 @@ Original GAN Paper
 
 Original GAN Paper
 --------------------------------------------
+[f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization] [[Paper]](https://arxiv.org/pdf/1606.00709)
 
-[Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2.pdf)[[Code]](https://github.com/buriburisuri/ebgan)(Lecun paper)
+[Energy-based generative adversarial network] [[Paper]](https://arxiv.org/pdf/1609.03126v2)[[Code]](https://github.com/buriburisuri/ebgan)(Lecun paper)
 
 [Boundary-Seeking Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1702.08431)
-
-[Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
 
 [Least Squares Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.04076)[[Code]](https://github.com/pfnet-research/chainer-LSGAN)
 
@@ -26,9 +25,8 @@ Original GAN Paper
 
 [Unrolled Generative Adversarial Networks] [[Paper]](https://arxiv.org/abs/1611.02163)[[Code]](https://github.com/poolio/unrolled_gan)
 
-Wasserstein GAN
+### Wasserstein GAN
 --------------------------------------------
-
 [Towards Principled Methods for Training Generative Adversarial Networks] [[Paper]](http://openreview.net/forum?id=Hk4_qw5xe)(ICLR 2017)
 
 [Wasserstein GAN] [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/martinarjovsky/WassersteinGAN)
@@ -37,10 +35,14 @@ Wasserstein GAN
 
 Generalization
 --------------------------------------------
-[Generalization and Equilibrium in Generative Adversarial Nets(GANs)] [[Paper]](https://arxiv.org/pdf/1703.00573.pdf)[[Code]](https://github.com/PrincetonML/MIX-plus-GANs)
+[Generalization and Equilibrium in Generative Adversarial Nets(GANs)] [[Paper]](https://arxiv.org/pdf/1703.00573)[[Code]](https://github.com/PrincetonML/MIX-plus-GANs)
 
 [Do GANs learn the distribution? Some Theory and Empirics][[Paper]](https://openreview.net/pdf?id=BJehNfW0-)
 
-[Theoretical limitations of Encoder-Decoder GAN architectures][[Paper]](https://arxiv.org/pdf/1703.00573.pdf)
+[Theoretical limitations of Encoder-Decoder GAN architectures][[Paper]](https://arxiv.org/pdf/1703.00573)
 
-[Improving Generalization and Stability of Generative Adversarial Networks][[Paper]](https://arxiv.org/pdf/1902.03984.pdf)[[Code]](https://github.com/htt210/GeneralizationAndStabilityInGANs)
+[Improving Generalization and Stability of Generative Adversarial Networks][[Paper]](https://arxiv.org/pdf/1902.03984)[[Code]](https://github.com/htt210/GeneralizationAndStabilityInGANs)
+
+Training Tricks
+--------------------------------------------
+[Improved Techniques for Training GANs] [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)

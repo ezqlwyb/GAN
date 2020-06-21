@@ -31,9 +31,17 @@ Towards Principled Methods for Training Generative Adversarial Networks [[Paper]
 
 Wasserstein GAN [[Paper]](https://arxiv.org/abs/1701.07875)[[Code]](https://github.com/martinarjovsky/WassersteinGAN)
 
-Improved Training of Wasserstein GANs [[Paper]](https://arxiv.org/abs/1701.06264)[[Code]](https://arxiv.org/abs/1704.00028)(The improvement of wgan)
+Improved Training of Wasserstein GANs [[Paper]](https://arxiv.org/abs/1704.00028)[[Code]](https://github.com/igul222/improved_wgan_training)
+
+Improving the Improved Training of Wasserstein GANs [[Paper]](https://arxiv.org/abs/1803.01541)[[Code]](https://github.com/biuyq/CT-GAN)
+
+Banach Wasserstein GAN [[Paper]](https://arxiv.org/pdf/1806.06621v2)[[Code]](https://github.com/adler- j/bwgan) (NIPS 2018)
 
 Spectral Normalization for Generative Adversarial Networks [[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[code]](https://github.com/minhnhat93/tf-SNDCGAN)
+
+Max-Sliced Wasserstein Distance and its use for GANs [[Paper]](http://openaccess.thecvf.com/content_CVPR_2019/papers/Deshpande_Max-Sliced_Wasserstein_Distance_and_Its_Use_for_GANs_CVPR_2019_paper.pdf)(CVPR 2019)
+
+Relaxed Wasserstein, with Applications to GANs and Distributionally Robust Optimization [[Paper]](https://arxiv.org/pdf/1705.07164)
 
 Convergence of Training Methods
 --------------------------------------------

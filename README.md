@@ -3,7 +3,7 @@ Papers of GANs
 
 Original GAN Paper
 --------------------------------------------
-[Generative Adversarial Nets] [[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/goodfeli/adversarial)
+Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/goodfeli/adversarial)
 
 Original GAN Paper
 --------------------------------------------

@@ -15,7 +15,7 @@ Boundary-Seeking Generative Adversarial Networks [[Paper]](https://arxiv.org/abs
 
 Least Squares Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.04076)[[Code]](https://github.com/pfnet-research/chainer-LSGAN)
 
-Mode RegularizedGenerative Adversarial Networks [[Paper]](https://openreview.net/pdf?id=HJKkY35le)(Yoshua Bengio , ICLR 2017)
+Mode Regularized Generative Adversarial Networks [[Paper]](https://openreview.net/pdf?id=HJKkY35le)(Yoshua Bengio , ICLR 2017)
 
 Improving Generative Adversarial Networks with Denoising Feature Matching [[Paper]](https://openreview.net/pdf?id=S1X7nhsxl)[[Code]](https://github.com/hvy/chainer-gan-denoising-feature-matching)(Yoshua Bengio , ICLR 2017)
 

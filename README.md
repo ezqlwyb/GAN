@@ -75,6 +75,27 @@ Improved Techniques for Training GANs [[Paper]](https://arxiv.org/abs/1606.03498
 
 Self-Supervised Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)(CVPR 2019)
 
-## Joint Probability
+Joint Probability
 --------------------------------------------
 Adversarially Learned Inference [[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
+
+Overview of GANs
+--------------------------------------------
+Generative Adversarial Networks: Introduction and Outlook [[Paper]](https://ieeexplore.ieee.org/document/8039016)
+
+Are GANs Created Equal? A Large-Scale Study [[Paper]](https://arxiv.org/abs/1711.10337)
+
+Generative Adversarial Network An Overview [[Paper]](https://arxiv.org/abs/1710.07035)
+
+How Generative Adversarial Networks and Their Variants Work: An Overview [[Paper]](https://arxiv.org/abs/1711.05914)
+
+Comparative Study on Generative Adversarial Networks [[Paper]](https://arxiv.org/pdf/1801.04271)
+
+Generative Adversarial Networks: A Survey and Taxonomy [[Paper]](https://arxiv.org/abs/1906.01529)
+
+Recent Progress on Generative Adversarial Networks (GANs): A Survey [[Paper]](https://ieeexplore.ieee.org/document/8667290)
+
+A Review on Generative Adversarial Networks: Algorithms, Theory, and Applications [[Paper]](https://arxiv.org/abs/2001.06937)
+
+Generative Adversarial Networks (GANs): Challenges, Solutions, and Future Directions [[Paper]](https://arxiv.org/abs/2005.00065)
+

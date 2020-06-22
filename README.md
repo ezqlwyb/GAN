@@ -73,7 +73,7 @@ Training Tricks
 --------------------------------------------
 Improved Techniques for Training GANs [[Paper]](https://arxiv.org/abs/1606.03498)[[Code]](https://github.com/openai/improved-gan)(Goodfellow's paper)
 
-Self-Supervised Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)（CVPR 2019）
+Self-Supervised Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1811.11212)[[code]](https://github.com/google/compare_gan)(CVPR 2019)
 
 ## Joint Probability
 --------------------------------------------

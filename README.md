@@ -37,7 +37,7 @@ Relaxed Wasserstein, with Applications to GANs and Distributionally Robust Optim
 
 Improving the Improved Training of Wasserstein GANs [[Paper]](https://arxiv.org/abs/1803.01541)[[Code]](https://github.com/biuyq/CT-GAN)
 
-Banach Wasserstein GAN [[Paper]](https://arxiv.org/pdf/1806.06621v2)[[Code]](https://github.com/adler- j/bwgan)(NIPS 2018)
+Banach Wasserstein GAN [[Paper]](https://arxiv.org/pdf/1806.06621v2)[[Code]](https://github.com/adler-j/bwgan)(NIPS 2018)
 
 Spectral Normalization for Generative Adversarial Networks [[Paper]](https://openreview.net/forum?id=B1QRgziT-)[[Code]](https://github.com/minhnhat93/tf-SNDCGAN)(ICLR 2018)
 

@@ -81,11 +81,17 @@ Joint Probability
 --------------------------------------------
 Adversarially Learned Inference [[Paper]](https://arxiv.org/abs/1606.00704)[[Code]](https://github.com/IshmaelBelghazi/ALI)
 
+Convergence and Stability
+--------------------------------------------
+On Convergence and Stability of GANs [[Paper]](https://arxiv.org/abs/1705.07215) [[Code]](https://github.com/kodalinaveen3/DRAGAN) (DRAGAN)
+
+Smoothness and Stability in GANs [[Paper]](https://openreview.net/forum?id=HJeOekHKwr) (ICLR 2020)
+
 Overview of GANs
 --------------------------------------------
 Generative Adversarial Networks: Introduction and Outlook [[Paper]](https://ieeexplore.ieee.org/document/8039016)
 
-Are GANs Created Equal? A Large-Scale Study [[Paper]](https://arxiv.org/abs/1711.10337)
+Are GANs Created Equal? A Large-Scale Study [[Paper]](https://arxiv.org/abs/1711.10337) [[Code]](goo.gl/G8kf5J)
 
 Generative Adversarial Network An Overview [[Paper]](https://arxiv.org/abs/1710.07035)
 

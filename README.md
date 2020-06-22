@@ -49,6 +49,8 @@ Max-Sliced Wasserstein Distance and its use for GANs [[Paper]](http://openaccess
 
 A Wasserstein GAN model with the total variational regularization [[Paper]](https://arxiv.org/pdf/1812.00810)
 
+Orthogonal Wasserstein GANs [[Paper]](https://arxiv.org/abs/1911.13060)
+
 Convergence of Training Methods
 --------------------------------------------
 GANs Trained by a Two Time-Scale Update Rule Converge to a Local Nash Equilibrium [[Paper]](https://arxiv.org/abs/1706.08500)[[code]](https://github.com/bioinf-jku/TTUR)

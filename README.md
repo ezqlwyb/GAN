@@ -21,7 +21,7 @@ Improving Generative Adversarial Networks with Denoising Feature Matching [[Pape
 
 Sampling Generative Networks [[Paper]](https://arxiv.org/abs/1609.04468)[[Code]](https://github.com/dribnet/plat)
 
-Mode Regularized Generative Adversarial Networkss [[Paper]](https://arxiv.org/abs/1612.02136)( Yoshua Bengio's paper)
+Mode Regularized Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1612.02136)( Yoshua Bengio's paper)
 
 Unrolled Generative Adversarial Networks [[Paper]](https://arxiv.org/abs/1611.02163)[[Code]](https://github.com/poolio/unrolled_gan)
 

@@ -5,7 +5,7 @@ Original GAN Paper
 --------------------------------------------
 Generative Adversarial Nets [[Paper]](https://arxiv.org/abs/1406.2661)[[Code]](https://github.com/goodfeli/adversarial)
 
-Original GAN Paper
+GAN Theory
 --------------------------------------------
 f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization [[Paper]](https://arxiv.org/pdf/1606.00709)
 
